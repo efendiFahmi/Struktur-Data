@@ -1,0 +1,14 @@
+list =[1,4,2,3,5,8,6,7,9,12,10,11]
+
+print("Mengecek list awal")
+print(list)
+print("")
+
+print("menambahkan data list dengan insert")
+list.insert(3,90)
+print(list)
+print("")
+
+print("mengurutkan list")
+list.sort()
+print(list)
